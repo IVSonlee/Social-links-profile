@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://your-solution-url.com)
+- Solution URL: [Github Repository](https://github.com/IVSonlee/Social-links-profile)
 - Live Site URL: [Live Site URL](https://your-live-site-url.com)
 
 ## My process
