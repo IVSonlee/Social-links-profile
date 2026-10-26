@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/IVSonlee/Social-links-profile)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://ivsonlee.github.io/Social-links-profile/)
 
 ## My process
 
